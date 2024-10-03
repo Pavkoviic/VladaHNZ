@@ -1,0 +1,380 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="JfjGy4kndvTIvYeLvEvc">
+    <mxGraphModel dx="1382" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-25" value="Vlada HNŽ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="120" as="sourcePoint" />
+            <mxPoint x="770" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="t2zR8JG1Dq7IRGJ8YDr1-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="310" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-36" value="Upravljanje sjednicama" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-38" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5" y="160" as="sourcePoint" />
+            <mxPoint x="299.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-39" value="Upravljanje dokumentima" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-40" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.5" y="160" as="sourcePoint" />
+            <mxPoint x="459.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-41" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="t2zR8JG1Dq7IRGJ8YDr1-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="190" as="sourcePoint" />
+            <mxPoint x="159.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-34" value="Prijava i autentifikacija korisnika" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-43" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.5" y="160" as="sourcePoint" />
+            <mxPoint x="139.5" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="139.5" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-46" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.5" y="120" as="sourcePoint" />
+            <mxPoint x="619.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-47" value="Upravljanje korisnicima (Administrator)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="t2zR8JG1Dq7IRGJ8YDr1-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-52" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-54" value="Prijava tajnika/tajnice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-57" value="Prijava administratora" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-60" value="Pregled javnih dokumenata (građani - bez prijave)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="450" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-63" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="540" as="sourcePoint" />
+            <mxPoint x="240" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-65" value="Upravljanje dnevnim redovima" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-67" value="Vođenje sjednica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-69" value="Unos i ažuriranje zapisnika" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-72" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="400" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-74" value="Učitavanje novih dokumenata" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-88" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="sourcePoint" />
+            <mxPoint x="560" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t2zR8JG1Dq7IRGJ8YDr1-90" value="Dodavanje novih korisnika" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TcXRs2jZcjVELC_aoPdt-3" value="Prijava članova vlade" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TcXRs2jZcjVELC_aoPdt-15" value="Kreiranje agendi" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="264.5" as="sourcePoint" />
+            <mxPoint x="120" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="264.5" as="sourcePoint" />
+            <mxPoint x="280" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="264.5" as="sourcePoint" />
+            <mxPoint x="440" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="264.5" as="sourcePoint" />
+            <mxPoint x="600" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="334.5" as="sourcePoint" />
+            <mxPoint x="120" y="334.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="120" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="404.5" as="sourcePoint" />
+            <mxPoint x="120" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="334.5" as="sourcePoint" />
+            <mxPoint x="280" y="334.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="404.5" as="sourcePoint" />
+            <mxPoint x="280" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ml7sm4U--j-oLenQAUOs-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="474.5" as="sourcePoint" />
+            <mxPoint x="280" y="474.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-1" value="Arhiviranje zapisnika" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="520" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="540" as="sourcePoint" />
+            <mxPoint x="280" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-4" value="Ažuriranje postojećih dokumenata" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-5" value="Brisanje dokumenata" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="334.5" as="sourcePoint" />
+            <mxPoint x="440" y="334.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="404.5" as="sourcePoint" />
+            <mxPoint x="440" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-12" value="Ažuriranje korisničkih prava" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-13" value="Sigurnost sustava" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T97n9DwKhYzHCO6HHzCe-14" value="Brisanje korisnika" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--1" value="Pregled i preuzimanje dokumenata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--2" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aEehNlswy0cOPZu0oD4--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="414.5" as="sourcePoint" />
+            <mxPoint x="400" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T97n9DwKhYzHCO6HHzCe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="274.5" as="sourcePoint" />
+            <mxPoint x="560" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T97n9DwKhYzHCO6HHzCe-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="405" as="sourcePoint" />
+            <mxPoint x="620" y="284.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T97n9DwKhYzHCO6HHzCe-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="475" as="sourcePoint" />
+            <mxPoint x="630" y="294.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--6" value="Generiranje i pregled izvještaja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="480" as="sourcePoint" />
+            <mxPoint x="700" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--8" value="Generiranje izvještaja o zakonima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="264.5" as="sourcePoint" />
+            <mxPoint x="740" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--10" value="Generiranje izvještaja o proračunima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--11" value="Arhiviranje izvještaja" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="450" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--12" value="Pregled izvještaja o projektima" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aEehNlswy0cOPZu0oD4--10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="274.5" as="sourcePoint" />
+            <mxPoint x="700" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aEehNlswy0cOPZu0oD4--12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="405" as="sourcePoint" />
+            <mxPoint x="760" y="284.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aEehNlswy0cOPZu0oD4--11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="475" as="sourcePoint" />
+            <mxPoint x="770" y="294.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="aEehNlswy0cOPZu0oD4--6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="120" as="sourcePoint" />
+            <mxPoint x="629.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="aEehNlswy0cOPZu0oD4--18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.5" y="190" as="sourcePoint" />
+            <mxPoint x="9.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--18" value="Pregled javnih informacija (Građani)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="480" as="sourcePoint" />
+            <mxPoint x="-70" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--20" value="Pregled zakona" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--21" value="Pregled proračuna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="380" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--22" value="Pregled projekata vlade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="450" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--23" value="Pregled odluka vlade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="264.5" as="sourcePoint" />
+            <mxPoint x="-30" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="334.5" as="sourcePoint" />
+            <mxPoint x="-30" y="334.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="480" as="sourcePoint" />
+            <mxPoint x="-30" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="404.5" as="sourcePoint" />
+            <mxPoint x="-30" y="404.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aEehNlswy0cOPZu0oD4--29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aEehNlswy0cOPZu0oD4--18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.5" y="170" as="sourcePoint" />
+            <mxPoint x="-10" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
